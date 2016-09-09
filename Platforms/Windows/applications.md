@@ -1,13 +1,14 @@
-﻿1. [Chrome](https://www.google.com/chrome/browser/desktop/index.html)
-2. [Git](https://git-scm.com/downloads)
-3. [Node.js](https://nodejs.org/en/) 
-4. [Visual Studio 2015](https://beta.visualstudio.com/downloads/)
+1. [Chrome](https://www.google.com/chrome/browser/desktop/index.html)
+2. [Chrome Remote Desktop](https://chrome.google.com/webstore/detail/chrome-remote-desktop/gbchcmhmhahfdphkhkmpfmihenigjmpp?hl=en)
+3. [Git](https://git-scm.com/downloads)
+4. [Node.js](https://nodejs.org/en/) 
+5. [Visual Studio 2015](https://beta.visualstudio.com/downloads/)
     * [Microsoft ASP.NET and Web Tools](https://visualstudiogallery.msdn.microsoft.com/c94a02e9-f2e9-4bad-a952-a63a967e3935)
     * [EditorConfig](https://visualstudiogallery.msdn.microsoft.com/c8bccfe2-650c-4b42-bc5c-845e21f96328)
     * [Markdown Editor](https://visualstudiogallery.msdn.microsoft.com/eaab33c3-437b-4918-8354-872dfe5d1bfe)
     * [Node.js Tools](https://beta.visualstudio.com/vs/node-js/)
     * [Python Tools for VSTO](https://beta.visualstudio.com/vs/python/)
-5. IIS Express - via windows config
+6. IIS Express - via windows config
     * Web Management Tools
       * IIS Management Console
     * World Wide Web Services
@@ -29,13 +30,12 @@
         * Static Content Compression
       * Security
         * Request Filtering
-6. [Notepad++](https://notepad-plus-plus.org/download/v6.9.2.html)
-7. [Chrome Remote Desktop](https://chrome.google.com/webstore/detail/chrome-remote-desktop/gbchcmhmhahfdphkhkmpfmihenigjmpp?hl=en)
+7. [Notepad++](https://notepad-plus-plus.org/download/v6.9.2.html)
 8. [Dropbox](https://www.dropbox.com/install)
 9. [Google Drive](https://www.google.com/drive/download/)
-9. [Evernote](https://evernote.com/download/)
-10. [Skype](https://www.skype.com/en/download-skype/skype-for-computer/)
-11. [ls](https://u-tools.com/msls)
+10. [Evernote](https://evernote.com/download/)
+11. [Skype](https://www.skype.com/en/download-skype/skype-for-computer/)
+12. [ls](https://u-tools.com/msls)
 13. [Atom](https://atom.io/)
 14. [Duck Capture](bin/Install_DuckCapture_Standard.exe)
 15. [Bull Zip PDF Printer](bin/Setup_BullzipPDFPrinter.exe)
