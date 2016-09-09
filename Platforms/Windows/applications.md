@@ -36,3 +36,5 @@
 9. [Evernote](https://evernote.com/download/)
 10. [Skype](https://www.skype.com/en/download-skype/skype-for-computer/)
 11. [ls](https://u-tools.com/msls)
+13. [Atom](https://atom.io/)
+14. [Duck Capture](../bin/Install_DuckCapture_Standard.exe)
