@@ -38,3 +38,5 @@
 11. [ls](https://u-tools.com/msls)
 13. [Atom](https://atom.io/)
 14. [Duck Capture](bin/Install_DuckCapture_Standard.exe)
+15. [Bull Zip PDF Printer](bin/Setup_BullzipPDFPrinter.exe)
+16. [Bently View](https://www.bentley.com/en/products/product-line/modeling-and-visualization-software/bentley-view)
