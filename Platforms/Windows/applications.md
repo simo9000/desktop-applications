@@ -42,4 +42,7 @@
 15. [Duck Capture](bin/Install_DuckCapture_Standard.exe)
 16. [Bull Zip PDF Printer](bin/Setup_BullzipPDFPrinter.exe)
 17. [Bently View](https://www.bentley.com/en/products/product-line/modeling-and-visualization-software/bentley-view)
+18. [Nuget Cmd Line](https://docs.nuget.org/consume/installing-nuget)
+    * %SYSTEMROOT%\windows32
+    * %SYSTEMROOT%\sysWOW64
 
