@@ -9,6 +9,7 @@
     * [Markdown Editor](https://visualstudiogallery.msdn.microsoft.com/eaab33c3-437b-4918-8354-872dfe5d1bfe)
     * [Node.js Tools](https://beta.visualstudio.com/vs/node-js/)
     * [Python Tools for VSTO](https://beta.visualstudio.com/vs/python/)
+    * [Open Command Line](https://visualstudiogallery.msdn.microsoft.com/4e84e2cf-2d6b-472a-b1e2-b84932511379)
 6. IIS Express - via windows config
     * Web Management Tools
       * IIS Management Console
