@@ -2,7 +2,7 @@
 2. [Git](https://git-scm.com/downloads)
 3. [Node.js](https://nodejs.org/en/) 
 4. [Open Cover](https://github.com/opencover/opencover/releases)
-5. [Visual Studio 2015](https://beta.visualstudio.com/downloads/)
+5. [Visual Studio 2017](https://beta.visualstudio.com/downloads/)
     * [Microsoft ASP.NET and Web Tools](https://visualstudiogallery.msdn.microsoft.com/c94a02e9-f2e9-4bad-a952-a63a967e3935)
     * [Open Cover](https://visualstudiogallery.msdn.microsoft.com/6950a046-8919-4935-8542-c6f37956f688)
     * [EditorConfig](https://visualstudiogallery.msdn.microsoft.com/c8bccfe2-650c-4b42-bc5c-845e21f96328)
@@ -11,6 +11,7 @@
     * [Python Tools for VSTO](https://beta.visualstudio.com/vs/python/)
     * [Open Command Line](https://visualstudiogallery.msdn.microsoft.com/4e84e2cf-2d6b-472a-b1e2-b84932511379)
     * [C# outline 2015](https://marketplace.visualstudio.com/items?itemName=Skybladev2.Coutline2015)
+    * [Customize Visual Studio Window Title](https://marketplace.visualstudio.com/items?itemName=mayerwin.RenameVisualStudioWindowTitle)
 6. IIS Express - via windows config
     * Web Management Tools
       * IIS Management Console
